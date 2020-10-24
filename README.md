@@ -1,2 +1,2 @@
-# Project20GCSO
-Car vs. wall project
+# p5.play-boilerplate
+Boiler plate for p5.play
